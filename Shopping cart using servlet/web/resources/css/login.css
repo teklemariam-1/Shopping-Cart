@@ -1,0 +1,52 @@
+
+h1 {
+    text-align: center;
+    background-color: #A8F0F0;
+    color: darkblue;
+}
+
+h2 {
+    text-align: center;
+    background-color: #A8F0F0;
+    color: darkblue;
+}
+
+h3 {
+    text-align: left;
+    color: darkolivegreen;
+}
+
+body {
+    background-image: url("../images/background.gif");
+}
+
+#mainBorder {
+    border: solid 10px white;
+    background-color: white;
+    width: 80%;
+    margin: auto;
+}
+
+
+img {
+    float: right;
+    overflow: auto;
+}
+
+#history {
+    font-size: 20px;
+    border: solid 5px #209697;
+    background-color: greenyellow;
+    width: 60%;
+    float: left;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: rgb(117, 211, 211);
+    /*margin-bottom: 300px;*/
+}
+
+
+#errorMessage {
+    color: red;
+}
